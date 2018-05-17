@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#ede265</color>
-    <color name="colorPrimaryDark">#75574d</color>
-    <color name="colorAccent">#c8836f</color>
+    <color name="colorPrimary">#90afc5</color>
+    <color name="colorPrimaryDark">#336b87</color>
+    <color name="colorAccent">#b5573a</color>
+    <color name="orange">#FFA500</color>
+    <color name="gold">#FFD700</color>
+    <color name="autumn">#763626</color>
+    <color name="terracotta">#E2725B</color>
+    <color name="topbar">#90afc5</color>
+    <color name="topbar2">#336b87</color>
+
 </resources>
