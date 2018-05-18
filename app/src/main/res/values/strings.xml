@@ -3,9 +3,9 @@
     <string name="edittext">Name</string>
     <string name="editText">Enter Name</string>
     <string name="quantity">Quantity</string>
-    <string name="plusbutton">+</string>
+    <string name="plusButton">+</string>
     <string name="qtview">0</string>
-    <string name="minusbutton">-</string>
+    <string name="minusButton">-</string>
     <string name="price">Price</string>
     <string name="tv2">$5</string>
     <string name="order">order</string>
