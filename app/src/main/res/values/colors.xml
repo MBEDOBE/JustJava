@@ -4,11 +4,11 @@
     <color name="colorPrimaryDark">#336b87</color>
     <color name="colorAccent">#4a1403</color>
     <color name="orange">#FFA500</color>
-    <color name="gold">#FFD700</color>
+    <color name="gold">#f4e7a5</color>
     <color name="autumn">#763626</color>
     <color name="terracotta">#E2725B</color>
     <color name="topbar">#90afc5</color>
     <color name="topbar2">#336b87</color>
-    <color name="background">#afafaf</color>
+    <color name="background">#c0afafaf</color>
 
 </resources>

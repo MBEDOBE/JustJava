@@ -9,4 +9,9 @@
     <string name="price">Price</string>
     <string name="tv2">$5</string>
     <string name="order">order</string>
+    <string name="cafeimage">cafeimage</string>
+    <string name="quantity2">Quantity</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="price2">Price</string>
 </resources>
